@@ -48,4 +48,4 @@ P.S.
 
 ### Ответ
 
-https://github.com/mirasomv/jusan-git/tree/035b541fd7d4abb2277e85b46e7877b53031db94
+https://github.com/mirasomv/jusan-git/tree/13894dd18201c5728e6d3bc9e863557830695932
