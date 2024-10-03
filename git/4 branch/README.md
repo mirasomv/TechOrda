@@ -46,3 +46,6 @@ git checkout authorization
 
 5. Загрузите изменения `git push`
 6. Прислать ссылку на репозиторий c указанием последнего коммита мастера в URL.
+
+### Ответ
+https://github.com/mirasomv/jusan-git/tree/75effeacef67116571c20c78134c5011d9da3807
