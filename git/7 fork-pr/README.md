@@ -26,7 +26,8 @@ fork - это клонирование чужого репозитория на 
 ---
 
 ### Ответ
-
+https://github.com/mirasomv/fork-me/pull/2
+sorry accidentally pushed to main =(
 Дополненный скрипт:
 
 ```bash
